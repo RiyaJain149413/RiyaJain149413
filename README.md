@@ -1,33 +1,42 @@
-```html
 <h1 align="center">Hi 👋, I'm Riya Jain</h1>
-<h3 align="center">ECE Student | IoT & Embedded Systems Enthusiast | Building smart solutions through innovation</h3>
 
-- 🌱 I’m currently learning **Advanced IoT Applications | Embedded Systems | Java Development**
+<h3 align="center">
+ECE Student | IoT & Embedded Systems Enthusiast | Building smart solutions through innovation
+</h3>
 
-- 🔭 I’m currently working on **Smart IoT-based projects and innovative real-world solutions**
+<br>
 
-- 👯 I’m looking to collaborate on **IoT, Smart Automation, and Embedded System Projects**
+* 🌱 I’m currently learning **Advanced IoT Applications | Embedded Systems | Java Development**
 
-- 👨‍💻 Explore my projects here: [Github](https://github.com/riyajain)
+* 🔭 I’m currently working on **Smart IoT-based projects and innovative real-world solutions**
 
-- 📫 How to reach me **rj149413@gmail.com**
+* 👯 I’m looking to collaborate on **IoT, Smart Automation, and Embedded System Projects**
 
-- 📄 My interests include **IoT | Embedded Systems | Graphic Designing | Problem Solving**
+* 👨‍💻 Explore my projects here: [Github]([https://github.com/riyajain](https://github.com/RiyaJain149413))
 
-- 🏆 Achievements:
-   - Smart India Hackathon'23 — College Level Finalist
-   - Hack JNU 4.0 — Top 20 Teams
-   - Innotech'23 — Departmental Finalist
+* 📫 How to reach me **[rj149413@gmail.com](mailto:rj149413@gmail.com)**
 
-- ⚡ Fun fact **I turn ideas into smart systems using sensors, code, and creativity.**
+* 📄 My interests include **IoT | Embedded Systems | Graphic Designing | Problem Solving**
+
+* 🏆 Achievements:
+
+  * Smart India Hackathon'23 — College Level Finalist
+  * Hack JNU 4.0 — Top 20 Teams
+  * Innotech'23 — Departmental Finalist
+
+* ⚡ Fun fact **I turn ideas into smart systems using sensors, code, and creativity.**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/RiyaJain149413" target="blank">
+<a href="[https://linkedin.com/in/RiyaJain14941](https://www.linkedin.com/in/riya-jain-6b5a2124b/)3" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Riya Jain" height="30" width="40" />
 </a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -43,10 +52,6 @@
 
 <a href="https://www.arduino.cc/" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-</a>
-
-<a href="https://blynk.io/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/blynk.svg" width="40" height="40"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank">
@@ -71,15 +76,15 @@
 
 </p>
 
+<br>
+
 <h3 align="left">Featured Projects:</h3>
 
-🚀 **IoT-based Smart Waste Bin**  
+🚀 <b>IoT-based Smart Waste Bin</b>
 ♻️ Smart waste management system using ESP32, RFID, sensors and cloud dashboard.
 
-🚀 **EnviroSense: Smart Environmental Monitoring System**  
+🚀 <b>EnviroSense: Smart Environmental Monitoring System</b>
 🌍 AQI detection, smog monitoring and accident prevention system.
 
-🚀 **Driver Drowsiness Detection System**  
+🚀 <b>Driver Drowsiness Detection System</b>
 🚗 Smart alert system to detect driver fatigue and improve road safety.
-
-```
